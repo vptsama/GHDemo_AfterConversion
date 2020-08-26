@@ -5,7 +5,7 @@ In original GMS app, Google maps and GMS location SDK are used.
 
 Some TO-DOs:
 1. Get a Google Maps API key from Google cloud platform and set it to google_maps_api.xml file.
-2. Finish the following steps to let Huawei Map work in your app
+2. Finish the following steps to let Huawei Map works in your app
 
 All Steps in this page:  https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/hms-map-configuringinagc
 
